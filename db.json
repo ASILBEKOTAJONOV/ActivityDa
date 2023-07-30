@@ -1,11 +1,52 @@
 {
-  "posts": [
+  "ActivityData": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Web Developer IT SCHOOL",
+      "map":"bx bxs-map",
+      "MapName":"Uzbekiston , Namangan , Chust",
+      "Gmail":"aseducoder@gmail.com",
+      "title":"Developing front-end and mobile app solutions (B2C, B2B) in Travel Tech on React/Next.js framework and Flutter SDK.",
+      "button1":"HTML",
+      "button1":"CSS",
+      "button2":"SASS",
+      "button3":"Bootstrap",
+      "button4":"JavaScript",
+      "button5":"React.js",
+      "button6":"Tailwint",
+      "React":"bx bxl-react"
+    },
+        {
+      "id": 1,
+      "title": "Web Developer IT SCHOOL",
+      "map":"bx bxs-map",
+      "MapName":"Uzbekiston , Namangan , Chust",
+      "Gmail":"aseducoder@gmail.com",
+      "title":"Developing front-end and mobile app solutions (B2C, B2B) in Travel Tech on React/Next.js framework and Flutter SDK.",
+      "button1":"HTML",
+      "button1":"CSS",
+      "button2":"SASS",
+      "button3":"Bootstrap",
+      "button4":"JavaScript",
+      "button5":"React.js",
+      "button6":"Tailwint",
+      "React":"bx bxl-react"
+    },
+        {
+      "id": 1,
+      "title": "Web Developer IT SCHOOL",
+      "map":"bx bxs-map",
+      "MapName":"Uzbekiston , Namangan , Chust",
+      "Gmail":"aseducoder@gmail.com",
+      "title":"Developing front-end and mobile app solutions (B2C, B2B) in Travel Tech on React/Next.js framework and Flutter SDK.",
+      "button1":"HTML",
+      "button1":"CSS",
+      "button2":"SASS",
+      "button3":"Bootstrap",
+      "button4":"JavaScript",
+      "button5":"React.js",
+      "button6":"Tailwint",
+      "React":"bx bxl-react"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
