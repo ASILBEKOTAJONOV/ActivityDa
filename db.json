@@ -2,7 +2,7 @@
   "ActivityData": [
     {
       "id": 1,
-      "title": "Web Developer IT SCHOOL",
+      "title1": "Web Developer IT SCHOOL",
       "map":"bx bxs-map",
       "MapName":"Uzbekiston , Namangan , Chust",
       "Gmail":"aseducoder@gmail.com",
@@ -18,7 +18,7 @@
     },
         {
       "id": 1,
-      "title": "Web Developer IT SCHOOL",
+      "title1": "Web Developer IT SCHOOL",
       "map":"bx bxs-map",
       "MapName":"Uzbekiston , Namangan , Chust",
       "Gmail":"aseducoder@gmail.com",
@@ -34,7 +34,7 @@
     },
         {
       "id": 1,
-      "title": "Web Developer IT SCHOOL",
+      "title1": "Web Developer IT SCHOOL",
       "map":"bx bxs-map",
       "MapName":"Uzbekiston , Namangan , Chust",
       "Gmail":"aseducoder@gmail.com",
