@@ -14,8 +14,7 @@
       "button3":"Bootstrap",
       "button4":"JavaScript",
       "button5":"React.js",
-      "button6":"Tailwint",
-
+      "button6":"Tailwint"
     },
         {
       "id": 2,
@@ -30,7 +29,7 @@
       "button3":"Bootstrap",
       "button4":"JavaScript",
       "button5":"React.js",
-      "button6":"Tailwint",
+      "button6":"Tailwint"
     },
         {
       "id": 3,
@@ -45,7 +44,7 @@
       "button3":"Bootstrap",
       "button4":"JavaScript",
       "button5":"React.js",
-      "button6":"Tailwint",
+      "button6":"Tailwint"
     }
   ]
 }
