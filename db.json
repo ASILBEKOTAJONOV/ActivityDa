@@ -2,11 +2,12 @@
   "ActivityData": [
     {
       "id": 1,
-      "title1": "Web Developer IT SCHOOL",
+      "title1": "Web Developer --> IT SCHOOL",
       "map":"bx bxs-map",
       "MapName":"Uzbekiston , Namangan , Chust",
+      "GmailLogo":"bx bxl-gmail"
       "Gmail":"aseducoder@gmail.com",
-      "title":"Developing front-end and mobile app solutions (B2C, B2B) in Travel Tech on React/Next.js framework and Flutter SDK.",
+      "title":"I learned the front end part of web programming here",
       "button1":"HTML",
       "button7":"CSS",
       "button2":"SASS",
@@ -14,7 +15,7 @@
       "button4":"JavaScript",
       "button5":"React.js",
       "button6":"Tailwint",
-      "React":"bx bxl-react"
+
     },
         {
       "id": 1,
@@ -30,7 +31,6 @@
       "button4":"JavaScript",
       "button5":"React.js",
       "button6":"Tailwint",
-      "React":"bx bxl-react"
     },
         {
       "id": 1,
@@ -46,7 +46,6 @@
       "button4":"JavaScript",
       "button5":"React.js",
       "button6":"Tailwint",
-      "React":"bx bxl-react"
     }
   ]
 }
