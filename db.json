@@ -55,7 +55,7 @@
   "MyWork": [
     {
       "id": 1,
-      "img": "1",
+      "img": "https://cdn-icons-png.flaticon.com/512/1088/1088537.png",
       "title": "Flight Local (B2B Travel Solution)",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
@@ -69,7 +69,7 @@
     },
     {
       "id": 2,
-      "img": "1",
+      "img": "https://cdn-icons-png.flaticon.com/512/1088/1088537.png",
       "title": "Flight Local (B2B Travel Solution)",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
@@ -83,7 +83,7 @@
     },
     {
       "id": 3,
-      "img": "1",
+      "img": "https://cdn-icons-png.flaticon.com/512/1088/1088537.png",
       "title": "Flight Local (B2B Travel Solution)",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
@@ -97,7 +97,7 @@
     },
     {
       "id": 4,
-      "img": "1",
+      "img": "https://cdn-icons-png.flaticon.com/512/1088/1088537.png",
       "title": "Flight Local (B2B Travel Solution)",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
@@ -111,7 +111,7 @@
     },
     {
       "id": 5,
-      "img": "1",
+      "img": "https://cdn-icons-png.flaticon.com/512/1088/1088537.png",
       "title": "Flight Local (B2B Travel Solution)",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
@@ -125,7 +125,7 @@
     },
     {
       "id": 6,
-      "img": "",
+      "img": "https://cdn-icons-png.flaticon.com/512/1088/1088537.png",
       "title": "Flight Local (B2B Travel Solution)",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
@@ -139,7 +139,7 @@
     },
     {
       "id": 7,
-      "img": "1",
+      "img": "https://cdn-icons-png.flaticon.com/512/1088/1088537.png",
       "title": "Flight Local (B2B Travel Solution)",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
@@ -153,7 +153,7 @@
     },
     {
       "id": 8,
-      "img": "1",
+      "img": "https://cdn-icons-png.flaticon.com/512/1088/1088537.png",
       "title": "Flight Local (B2B Travel Solution)",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
@@ -167,7 +167,7 @@
     },
     {
       "id": 9,
-      "img": "1",
+      "img": "https://cdn-icons-png.flaticon.com/512/1088/1088537.png",
       "title": "Flight Local (B2B Travel Solution)",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
