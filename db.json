@@ -60,11 +60,11 @@
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
       "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque,delectus ab! Dicta molestiae iusto laudantium. Ducimus magni veritatis debitis quibusdam cumque quod illum sapiente culpa! Itaque placeat maiores est non!",
-      "img1": "img/img2.png",
-      "img2": "img/img3.png",
-      "img3": "img/img4.png",
-      "img4": "img/img5.png",
-      "img5": "img/img6.png",
+      "img1": "imgs/img2.png",
+      "img2": "imgs/img3.png",
+      "img3": "imgs/img4.png",
+      "img4": "imgs/img5.png",
+      "img5": "imgs/img6.png",
       "cardName":"MyWork-card-1"
     },
     {
