@@ -58,7 +58,7 @@
       "img": "imgs/img19.png",
       "title": "Lorem Input",
       "subTitle": "Web Development",
-      "subTitleHover": "Show project -->",
+      "subTitleHover": "Show project <i class='bx bx-right-arrow-alt'></i>",
       "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque,delectus ab! Dicta molestiae iusto laudantium. Ducimus magni veritatis debitis quibusdam cumque quod illum sapiente culpa! Itaque placeat maiores est non!",
       "img1": "../src/img/img2.png",
       "img2": "../src/img/img3.png",
