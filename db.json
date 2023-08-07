@@ -66,7 +66,8 @@
       "img4": "",
       "img5": "",
       "cardName":"MyWork-card-1",
-      "right":"bx bx-right-arrow-alt"
+      "right":"bx bx-right-arrow-alt",
+      "Link":"https://stocktracker-for-portfolio.netlify.app"
     },
     {
       "id": 2,
@@ -81,7 +82,8 @@
       "img4": "",
       "img5": "",
       "cardName":"MyWork-card-2",
-      "right":"bx bx-right-arrow-alt"
+      "right":"bx bx-right-arrow-alt",
+      "Link":"https://livecodeeditorforasilbek.netlify.app"
     },
     {
       "id": 3,
@@ -96,7 +98,8 @@
       "img4": "",
       "img5": "",
       "cardName":"MyWork-card-3",
-      "right":"bx bx-right-arrow-alt"
+      "right":"bx bx-right-arrow-alt",
+      "Link":"https://batareyasedu.netlify.app"
     },
     {
       "id": 4,
@@ -111,7 +114,8 @@
       "img4": "../src/img/img10.png",
       "img5": "../src/img/img12.png",
       "cardName":"MyWork-card-4",
-      "right":"bx bx-right-arrow-alt"
+      "right":"bx bx-right-arrow-alt",
+      "Link":"https://gameasedu.netlify.app"
     },
     {
       "id": 5,
@@ -126,7 +130,8 @@
       "img4": "../src/img/img17.png",
       "img5": "../src/img/img18.png",
       "cardName":"MyWork-card-5",
-      "right":"bx bx-right-arrow-alt"
+      "right":"bx bx-right-arrow-alt",
+      "Link":"https://asedukalkulator.netlify.app"
     },
     {
       "id": 6,
@@ -141,7 +146,8 @@
       "img4": "",
       "img5": "",
       "cardName":"MyWork-card-6",
-      "right":"bx bx-right-arrow-alt"
+      "right":"bx bx-right-arrow-alt",
+      "Link":"https://stocktracker-for-portfolio.netlify.app"
     },
     {
       "id": 7,
@@ -156,7 +162,8 @@
       "img4": "../src/img/img25.png",
       "img5": "",
       "cardName":"MyWork-card-7",
-      "right":"bx bx-right-arrow-alt"
+      "right":"bx bx-right-arrow-alt",
+      "Link":"https://asedu-mebel.netlify.app/"
     },
     {
       "id": 8,
@@ -171,7 +178,8 @@
       "img4": "",
       "img5": "",
       "cardName":"MyWork-card-8",
-      "right":"bx bx-right-arrow-alt"
+      "right":"bx bx-right-arrow-alt",
+       "Link":"https://adminpaneli.netlify.app"
     },
     {
       "id": 9,
@@ -186,7 +194,8 @@
       "img4": "",
       "img5": "",
       "cardName":"MyWork-card-9",
-      "right":"bx bx-right-arrow-alt"
+      "right":"bx bx-right-arrow-alt",
+      "Link":"https://gamingasedu.netlify.app"
     }
   ]
 }
