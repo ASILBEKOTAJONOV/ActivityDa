@@ -55,7 +55,7 @@
   "MyWork": [
     {
       "id": 1,
-      "img": "imgs/img1.png",
+      "img": "imgs/img19.png",
       "title": "Lorem Input",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
@@ -125,7 +125,7 @@
     },
     {
       "id": 6,
-      "img": "imgs/img19.png",
+      "img": "imgs/img1.png",
       "title": "Lorem Input",
       "subTitle": "Web Development",
       "subTitleHover": "Show project -",
